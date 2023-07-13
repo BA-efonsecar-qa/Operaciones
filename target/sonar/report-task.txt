@@ -1,0 +1,6 @@
+projectKey=org.example:Operaciones
+serverUrl=http://hndevsonarqube.adbancat.hn:9000
+serverVersion=9.9.1.69595
+dashboardUrl=http://hndevsonarqube.adbancat.hn:9000/dashboard?id=org.example%3AOperaciones
+ceTaskId=AYktfzPhzRXDeIFsmAdU
+ceTaskUrl=http://hndevsonarqube.adbancat.hn:9000/api/ce/task?id=AYktfzPhzRXDeIFsmAdU
